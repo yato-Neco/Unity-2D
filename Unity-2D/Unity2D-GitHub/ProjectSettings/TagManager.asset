@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Enemy
+  - Abyss
   layers:
   - Default
   - TransparentFX
@@ -13,12 +16,12 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - BG
+  - Ground
+  - Touka
+  - Sousa
   - 
   - 
   - 
